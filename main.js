@@ -16,10 +16,11 @@
 // console.log(`uzuznlik ${res} metrda
 // `);
 
-var number=prompt("ikki xonali son kiriting");
-console.log(number);
-var arr=[];
-arr=number;
-// var num= arr==number;
-var res= arr[0]+arr[1];
-console.log(res);
+// var number = prompt("ikki xonali son kiriting");
+// console.log(number);
+// const res=[]
+// res=number;
+// var num1=res[0]+res[1]
+// console.log(num1);
+
+// var lesson = prompt("ikki xonali son kiriting");
